@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-backend",
+  "version": "1.0.0",
+  "description": "back end for an e-commerce site",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bret-short/e-commerce-backend.git"
+  },
+  "author": "Bret Short",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bret-short/e-commerce-backend/issues"
+  },
+  "homepage": "https://github.com/bret-short/e-commerce-backend#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.5.0"
+  }
+}
