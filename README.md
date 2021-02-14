@@ -20,9 +20,12 @@ You can test the server with GET, POST, PUT and DELETE commands using Insomnia C
 * Sequelize
 * dotenv 
 * Express.js
+* Insomnia Core
 
 ## Screenshots of testing
-
+![Screen Shot 2021-02-14 at 3 38 24 PM](https://user-images.githubusercontent.com/73445178/107891340-42a5fe00-6edb-11eb-8d56-d512a3cc6560.png)
+![Screen Shot 2021-02-14 at 3 38 58 PM](https://user-images.githubusercontent.com/73445178/107891342-43d72b00-6edb-11eb-8e8c-1d792c0655f8.png)
+![Screen Shot 2021-02-14 at 3 39 32 PM](https://user-images.githubusercontent.com/73445178/107891343-446fc180-6edb-11eb-85de-10de863f8732.png)
 
 ## Video Demonstration
 https://drive.google.com/file/d/12PmvIqqGLg5Ip2O0IT3rq69DNhbMF1MZ/view
