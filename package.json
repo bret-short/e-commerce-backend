@@ -4,8 +4,10 @@
   "description": "back end for an e-commerce site",
   "main": "server.js",
   "scripts": {
-    "test": "npm start",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +21,7 @@
   "homepage": "https://github.com/bret-short/e-commerce-backend#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "express": "^4.17.1",
     "mysql2": "^2.2.5",
     "sequelize": "^6.5.0"
   }
